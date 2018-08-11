@@ -4,5 +4,6 @@
     "registry": "https://registry.bower.io",
     "scripts": {
         "postinstall": "./bower-post-install.sh"
-    }
+    },
+    "registry": "https://registry.bower.io"
 }
